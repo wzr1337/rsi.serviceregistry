@@ -1,1 +1,1 @@
-export { ServiceRegistry } from './service.registry';
+export { ServiceRegistry } from "./service.registry";
