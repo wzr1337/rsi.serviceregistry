@@ -1,6 +1,6 @@
 {
   "name": "@rsi/serviceregistry",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "description": "Service Registry mock for the Volkswagen Infotainment Web Interface as public in 2016 by W3C",
   "main": "dist/public_api.js",
   "types": "dist/public_api.d.ts",
